@@ -1,0 +1,36 @@
+8.7s 1 /kaggle/input/language-detection/Language Detection.csv
+46.2s 2 Accuracy is : 0.9811411992263056
+46.2s 3 precision    recall  f1-score   support
+46.2s 4 
+46.2s 5 0       1.00      0.97      0.99       115
+46.2s 6 1       0.99      0.96      0.97        77
+46.2s 7 2       0.99      0.98      0.99       101
+46.2s 8 3       0.90      1.00      0.95       284
+46.2s 9 4       0.99      0.99      0.99       197
+46.2s 10 5       1.00      0.96      0.98       112
+46.2s 11 6       1.00      0.98      0.99        62
+46.2s 12 7       1.00      1.00      1.00        12
+46.2s 13 8       0.99      0.99      0.99       151
+46.2s 14 9       1.00      0.98      0.99        60
+46.2s 15 10       0.99      0.99      0.99       102
+46.2s 16 11       1.00      0.97      0.99       151
+46.2s 17 12       1.00      0.97      0.98       120
+46.2s 18 13       0.99      0.98      0.99       159
+46.2s 19 14       0.99      0.98      0.98       143
+46.2s 20 15       1.00      0.97      0.99       115
+46.2s 21 16       1.00      0.96      0.98       107
+46.2s 22 
+46.2s 23 accuracy                           0.98      2068
+46.2s 24 macro avg       0.99      0.98      0.98      2068
+46.2s 25 weighted avg       0.98      0.98      0.98      2068
+46.2s 26 
+50.4s 27 /opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+50.4s 28 FutureWarning,
+50.4s 29 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+50.5s 30 [NbConvertApp] Writing 64949 bytes to __notebook__.ipynb
+51.8s 31 /opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+51.8s 32 FutureWarning,
+51.8s 33 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+52.5s 34 [NbConvertApp] Support files will be in __results___files/
+52.5s 35 [NbConvertApp] Making directory __results___files
+52.5s 36 [NbConvertApp] Writing 294955 bytes to __results__.html
